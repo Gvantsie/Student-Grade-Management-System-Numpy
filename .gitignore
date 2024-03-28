@@ -1,0 +1,7 @@
+__pycache__/
+./.git/
+.idea/
+.venv/
+*.pyc
+*.pyo
+```
